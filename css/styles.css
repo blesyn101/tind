@@ -129,14 +129,14 @@ padding-bottom: 3px;
   padding: 3% 2%;
 }
 
- @media (max-width:770px)
+ @media (max-width:990px)
 {  .title-image{
   position: static;
   width: 60%;
   transform: rotate(0);
 }
 }
-@media (max-width:770px) {
+@media (max-width:990px) {
   #title{
     text-align: center;
   }

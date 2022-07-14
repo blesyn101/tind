@@ -1,2 +1,1 @@
-# tindog
-on this repository, I added tindog
+TinDog Starting Files

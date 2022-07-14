@@ -132,7 +132,7 @@ padding-bottom: 3px;
  @media (max-width:990px)
 {  .title-image{
   position: static;
-  width: 90%;
+  width: 100%;
   transform: rotate(0);
 }
 }
